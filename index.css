@@ -1,6 +1,6 @@
  .main{
     background-image: url("../Me/assets/muiscbackground.jpg");
-}
+} 
 
 .colOne{
     position: relative;
@@ -9,9 +9,9 @@
     padding-left: 10px;
 }
 
-.main{
+/* .main{
     color: blue;
-}
+} */
 
 .lead-lg{
     position: relative;
