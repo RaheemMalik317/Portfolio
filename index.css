@@ -1,5 +1,5 @@
  .main{
-    background-image: url("../Me/assets/muiscbackground.jpg");
+    background-image: url("./assets/muiscbackground.jpg");
 } 
 
 .colOne{
@@ -25,7 +25,7 @@
 }
 
 .jumbotron{
-    background-image: url("../Me/assets/peace.jpg");
+    background-image: url("./assets/peace.jpg");
     margin-top: 75px;
     margin-bottom: 75px;
     padding-left: 75px;
